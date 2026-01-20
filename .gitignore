@@ -1,0 +1,13 @@
+# 忽略数据文件夹 (代码会自动下载)
+data/
+DeepDTA/
+
+# 忽略训练好的模型 (太大了)
+checkpoints/
+*.pth
+
+# 忽略 Python 缓存和系统文件
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
