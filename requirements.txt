@@ -1,0 +1,7 @@
+torch>=2.0.0
+torch_geometric
+rdkit
+lifelines
+numpy
+pandas
+scikit-learn
