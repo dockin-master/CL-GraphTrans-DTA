@@ -18,7 +18,7 @@ CL-GraphTrans-DTA is a deep learning framework that combines **Graph Attention N
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/你的用户名/你的仓库名.git
+git clone https://github.com/dockin-master/CL-GraphTrans-DTA.git
 cd 你的仓库名
 
 # 2. Install dependencies
